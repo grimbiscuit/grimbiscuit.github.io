@@ -1,7 +1,7 @@
 # purplewaffle.github.io
 
-Site oficial da **Purple Waffle**, publicado por GitHub Pages em
-<https://purplewaffle.github.io/>.
+Site oficial da **Grim Biscuit**, publicado por GitHub Pages em
+<https://grimbiscuit.com/>.
 
 Páginas estáticas, sem build e sem dependências:
 
@@ -17,10 +17,10 @@ Páginas estáticas, sem build e sem dependências:
 
 - [ ] Trocar `pub-0000000000000000` em `app-ads.txt` pelo ID de editor real do AdMob e
       **descomentar** a linha. Enquanto estiver comentada, o arquivo não autoriza ninguém.
-- [ ] Declarar `https://purplewaffle.github.io/` como site do desenvolvedor nas duas lojas
+- [ ] Declarar `https://grimbiscuit.com/` como site do desenvolvedor nas duas lojas
       (precisa ser o mesmo domínio que serve o `app-ads.txt`).
-- [ ] Declarar `https://purplewaffle.github.io/privacidade.html` como política de privacidade.
-- [ ] Criar as caixas `contato@`, `suporte@` e `privacidade@purplewaffle.dev`, ou substituir
+- [ ] Declarar `https://grimbiscuit.com/privacidade.html` como política de privacidade.
+- [ ] Criar as caixas `contato@`, `suporte@` e `privacidade@grimbiscuit.com`, ou substituir
       os endereços nas quatro páginas por um e-mail que já exista.
 
 As páginas afirmam que não existe servidor próprio, conta de usuário, analytics de terceiros

@@ -1,9 +1,9 @@
-# app-ads.txt — Purple Waffle (com.purplewaffle.cataplane)
+# app-ads.txt — Grim Biscuit (com.grimbiscuit.cataplane)
 # Formato IAB Tech Lab app-ads.txt 1.0:
 #   <domínio do sistema de anúncios>, <publisher id>, <DIRECT|RESELLER>, <TAG-ID da autoridade certificadora>
 # Uma entrada por linha, sem aspas. Linhas iniciadas por "#" são comentários.
 #
-# Publicado na raiz do site do desenvolvedor: https://purplewaffle.github.io/app-ads.txt
+# Publicado na raiz do site do desenvolvedor: https://grimbiscuit.com/app-ads.txt
 # O MESMO endereço precisa estar no campo de site do desenvolvedor na Google Play
 # e na App Store, senão o crawler do AdMob não associa o arquivo aos apps.
 #
@@ -14,4 +14,4 @@
 # (AdMob > Configurações > ID do editor) e descomentar antes de publicar.
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 #
-contact=contato@purplewaffle.dev
+contact=contato@grimbiscuit.com
