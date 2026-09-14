@@ -14,4 +14,4 @@
 # (AdMob > Configurações > ID do editor) e descomentar antes de publicar.
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
 #
-contact=contato@grimbiscuit.com
+contact=hello@grimbiscuit.com
